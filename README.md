@@ -99,8 +99,8 @@ A comprehensive **White Goods Automation System** developed using **C# (.NET Fra
 
 ## 🖼️ Screenshots
 
-> 📸 You can add screenshots of key forms such as product entry, sales screen, reports, etc.
-> Recommended format:
+
+
 > <img width="713" height="351" alt="image" src="https://github.com/user-attachments/assets/e14d660e-864f-4117-b1cc-44070c698904" />
 <img width="1376" height="962" alt="image" src="https://github.com/user-attachments/assets/14286eda-a096-4fef-898b-44696be71eda" />
 
