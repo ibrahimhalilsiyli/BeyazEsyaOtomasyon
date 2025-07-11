@@ -1,0 +1,715 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17A6E77E-E4C4-4BA0-A85A-FBD1406AB285}|BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon.csproj|C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\beyazesyaotomasyon\\frmayarlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17A6E77E-E4C4-4BA0-A85A-FBD1406AB285}|BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon.csproj|solutionrelative:beyazesyaotomasyon\\frmayarlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A6E77E-E4C4-4BA0-A85A-FBD1406AB285}|BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon.csproj|C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\beyazesyaotomasyon\\frmbankalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17A6E77E-E4C4-4BA0-A85A-FBD1406AB285}|BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon.csproj|solutionrelative:beyazesyaotomasyon\\frmbankalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A6E77E-E4C4-4BA0-A85A-FBD1406AB285}|BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon.csproj|C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\beyazesyaotomasyon\\frmpersonel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17A6E77E-E4C4-4BA0-A85A-FBD1406AB285}|BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon.csproj|solutionrelative:beyazesyaotomasyon\\frmpersonel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A6E77E-E4C4-4BA0-A85A-FBD1406AB285}|BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon.csproj|C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\beyazesyaotomasyon\\frmmusteriler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17A6E77E-E4C4-4BA0-A85A-FBD1406AB285}|BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon.csproj|solutionrelative:beyazesyaotomasyon\\frmmusteriler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A6E77E-E4C4-4BA0-A85A-FBD1406AB285}|BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon.csproj|C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\beyazesyaotomasyon\\frmurunler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17A6E77E-E4C4-4BA0-A85A-FBD1406AB285}|BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon.csproj|solutionrelative:beyazesyaotomasyon\\frmurunler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A6E77E-E4C4-4BA0-A85A-FBD1406AB285}|BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon.csproj|c:\\c-ile-devexpress-de-sql-tabanl-beyaz-esya-otomasyonu-main\\beyazesyaotomasyon\\beyazesyaotomasyon\\frmadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{17A6E77E-E4C4-4BA0-A85A-FBD1406AB285}|BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon.csproj|solutionrelative:beyazesyaotomasyon\\frmadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A6E77E-E4C4-4BA0-A85A-FBD1406AB285}|BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon.csproj|C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\beyazesyaotomasyon\\frmanamodul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{17A6E77E-E4C4-4BA0-A85A-FBD1406AB285}|BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon.csproj|solutionrelative:beyazesyaotomasyon\\frmanamodul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A6E77E-E4C4-4BA0-A85A-FBD1406AB285}|BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon.csproj|C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\beyazesyaotomasyon\\frmadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17A6E77E-E4C4-4BA0-A85A-FBD1406AB285}|BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon.csproj|solutionrelative:beyazesyaotomasyon\\frmadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A6E77E-E4C4-4BA0-A85A-FBD1406AB285}|BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon.csproj|C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\beyazesyaotomasyon\\frmkasa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17A6E77E-E4C4-4BA0-A85A-FBD1406AB285}|BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon.csproj|solutionrelative:beyazesyaotomasyon\\frmkasa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A6E77E-E4C4-4BA0-A85A-FBD1406AB285}|BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon.csproj|C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\beyazesyaotomasyon\\frmfirmalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17A6E77E-E4C4-4BA0-A85A-FBD1406AB285}|BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon.csproj|solutionrelative:beyazesyaotomasyon\\frmfirmalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A6E77E-E4C4-4BA0-A85A-FBD1406AB285}|BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon.csproj|C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\beyazesyaotomasyon\\frmadmin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17A6E77E-E4C4-4BA0-A85A-FBD1406AB285}|BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon.csproj|solutionrelative:beyazesyaotomasyon\\frmadmin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A6E77E-E4C4-4BA0-A85A-FBD1406AB285}|BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon.csproj|C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\beyazesyaotomasyon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17A6E77E-E4C4-4BA0-A85A-FBD1406AB285}|BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon.csproj|solutionrelative:beyazesyaotomasyon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A6E77E-E4C4-4BA0-A85A-FBD1406AB285}|BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon.csproj|C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\beyazesyaotomasyon\\frmsatis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17A6E77E-E4C4-4BA0-A85A-FBD1406AB285}|BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon.csproj|solutionrelative:beyazesyaotomasyon\\frmsatis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A6E77E-E4C4-4BA0-A85A-FBD1406AB285}|BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon.csproj|C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\beyazesyaotomasyon\\frmhareketler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17A6E77E-E4C4-4BA0-A85A-FBD1406AB285}|BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon.csproj|solutionrelative:beyazesyaotomasyon\\frmhareketler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A6E77E-E4C4-4BA0-A85A-FBD1406AB285}|BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon.csproj|C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\beyazesyaotomasyon\\frmrehber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17A6E77E-E4C4-4BA0-A85A-FBD1406AB285}|BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon.csproj|solutionrelative:beyazesyaotomasyon\\frmrehber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A6E77E-E4C4-4BA0-A85A-FBD1406AB285}|BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon.csproj|C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\beyazesyaotomasyon\\frmsatis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{17A6E77E-E4C4-4BA0-A85A-FBD1406AB285}|BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon.csproj|solutionrelative:beyazesyaotomasyon\\frmsatis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A6E77E-E4C4-4BA0-A85A-FBD1406AB285}|BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon.csproj|C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\beyazesyaotomasyon\\frmrehber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{17A6E77E-E4C4-4BA0-A85A-FBD1406AB285}|BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon.csproj|solutionrelative:beyazesyaotomasyon\\frmrehber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A6E77E-E4C4-4BA0-A85A-FBD1406AB285}|BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon.csproj|C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\beyazesyaotomasyon\\frmsatis.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17A6E77E-E4C4-4BA0-A85A-FBD1406AB285}|BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon.csproj|solutionrelative:beyazesyaotomasyon\\frmsatis.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A6E77E-E4C4-4BA0-A85A-FBD1406AB285}|BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon.csproj|C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\beyazesyaotomasyon\\frmanasayfa.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17A6E77E-E4C4-4BA0-A85A-FBD1406AB285}|BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon.csproj|solutionrelative:beyazesyaotomasyon\\frmanasayfa.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A6E77E-E4C4-4BA0-A85A-FBD1406AB285}|BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon.csproj|C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\beyazesyaotomasyon\\frmanasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{17A6E77E-E4C4-4BA0-A85A-FBD1406AB285}|BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon.csproj|solutionrelative:beyazesyaotomasyon\\frmanasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A6E77E-E4C4-4BA0-A85A-FBD1406AB285}|BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon.csproj|C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\beyazesyaotomasyon\\frmanasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17A6E77E-E4C4-4BA0-A85A-FBD1406AB285}|BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon.csproj|solutionrelative:beyazesyaotomasyon\\frmanasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A6E77E-E4C4-4BA0-A85A-FBD1406AB285}|BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon.csproj|C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\beyazesyaotomasyon\\frmfaturalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17A6E77E-E4C4-4BA0-A85A-FBD1406AB285}|BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon.csproj|solutionrelative:beyazesyaotomasyon\\frmfaturalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A6E77E-E4C4-4BA0-A85A-FBD1406AB285}|BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon.csproj|C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\beyazesyaotomasyon\\frmraporlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17A6E77E-E4C4-4BA0-A85A-FBD1406AB285}|BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon.csproj|solutionrelative:beyazesyaotomasyon\\frmraporlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A6E77E-E4C4-4BA0-A85A-FBD1406AB285}|BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon.csproj|C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\beyazesyaotomasyon\\frmraporlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{17A6E77E-E4C4-4BA0-A85A-FBD1406AB285}|BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon.csproj|solutionrelative:beyazesyaotomasyon\\frmraporlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A6E77E-E4C4-4BA0-A85A-FBD1406AB285}|BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon.csproj|C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\beyazesyaotomasyon\\frmfaturalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{17A6E77E-E4C4-4BA0-A85A-FBD1406AB285}|BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon.csproj|solutionrelative:beyazesyaotomasyon\\frmfaturalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A6E77E-E4C4-4BA0-A85A-FBD1406AB285}|BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon.csproj|C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\beyazesyaotomasyon\\frmfaturaurunduzenleme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{17A6E77E-E4C4-4BA0-A85A-FBD1406AB285}|BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon.csproj|solutionrelative:beyazesyaotomasyon\\frmfaturaurunduzenleme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A6E77E-E4C4-4BA0-A85A-FBD1406AB285}|BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon.csproj|C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\beyazesyaotomasyon\\frmfaturaurunduzenleme.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{17A6E77E-E4C4-4BA0-A85A-FBD1406AB285}|BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon.csproj|solutionrelative:beyazesyaotomasyon\\frmfaturaurunduzenleme.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A6E77E-E4C4-4BA0-A85A-FBD1406AB285}|BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon.csproj|C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\beyazesyaotomasyon\\frmfaturaurunduzenleme.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17A6E77E-E4C4-4BA0-A85A-FBD1406AB285}|BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon.csproj|solutionrelative:beyazesyaotomasyon\\frmfaturaurunduzenleme.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A6E77E-E4C4-4BA0-A85A-FBD1406AB285}|BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon.csproj|C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\beyazesyaotomasyon\\frmurunler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{17A6E77E-E4C4-4BA0-A85A-FBD1406AB285}|BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon.csproj|solutionrelative:beyazesyaotomasyon\\frmurunler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A6E77E-E4C4-4BA0-A85A-FBD1406AB285}|BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon.csproj|C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\beyazesyaotomasyon\\frmstoklar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{17A6E77E-E4C4-4BA0-A85A-FBD1406AB285}|BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon.csproj|solutionrelative:beyazesyaotomasyon\\frmstoklar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A6E77E-E4C4-4BA0-A85A-FBD1406AB285}|BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon.csproj|C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\beyazesyaotomasyon\\frmpersonel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{17A6E77E-E4C4-4BA0-A85A-FBD1406AB285}|BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon.csproj|solutionrelative:beyazesyaotomasyon\\frmpersonel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A6E77E-E4C4-4BA0-A85A-FBD1406AB285}|BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon.csproj|C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\beyazesyaotomasyon\\frmnotlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{17A6E77E-E4C4-4BA0-A85A-FBD1406AB285}|BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon.csproj|solutionrelative:beyazesyaotomasyon\\frmnotlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A6E77E-E4C4-4BA0-A85A-FBD1406AB285}|BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon.csproj|C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\beyazesyaotomasyon\\frmnotdetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{17A6E77E-E4C4-4BA0-A85A-FBD1406AB285}|BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon.csproj|solutionrelative:beyazesyaotomasyon\\frmnotdetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A6E77E-E4C4-4BA0-A85A-FBD1406AB285}|BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon.csproj|C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\beyazesyaotomasyon\\frmmusteriler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{17A6E77E-E4C4-4BA0-A85A-FBD1406AB285}|BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon.csproj|solutionrelative:beyazesyaotomasyon\\frmmusteriler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A6E77E-E4C4-4BA0-A85A-FBD1406AB285}|BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon.csproj|C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\beyazesyaotomasyon\\frmmail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{17A6E77E-E4C4-4BA0-A85A-FBD1406AB285}|BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon.csproj|solutionrelative:beyazesyaotomasyon\\frmmail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A6E77E-E4C4-4BA0-A85A-FBD1406AB285}|BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon.csproj|C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\beyazesyaotomasyon\\frmhareketler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{17A6E77E-E4C4-4BA0-A85A-FBD1406AB285}|BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon.csproj|solutionrelative:beyazesyaotomasyon\\frmhareketler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A6E77E-E4C4-4BA0-A85A-FBD1406AB285}|BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon.csproj|C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\beyazesyaotomasyon\\frmgiderler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{17A6E77E-E4C4-4BA0-A85A-FBD1406AB285}|BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon.csproj|solutionrelative:beyazesyaotomasyon\\frmgiderler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A6E77E-E4C4-4BA0-A85A-FBD1406AB285}|BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon.csproj|C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\beyazesyaotomasyon\\frmfaturaurunler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{17A6E77E-E4C4-4BA0-A85A-FBD1406AB285}|BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon.csproj|solutionrelative:beyazesyaotomasyon\\frmfaturaurunler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A6E77E-E4C4-4BA0-A85A-FBD1406AB285}|BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon.csproj|C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\beyazesyaotomasyon\\frmayarlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{17A6E77E-E4C4-4BA0-A85A-FBD1406AB285}|BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon.csproj|solutionrelative:beyazesyaotomasyon\\frmayarlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A6E77E-E4C4-4BA0-A85A-FBD1406AB285}|BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon.csproj|C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\beyazesyaotomasyon\\frmhareketler.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17A6E77E-E4C4-4BA0-A85A-FBD1406AB285}|BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon.csproj|solutionrelative:beyazesyaotomasyon\\frmhareketler.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A6E77E-E4C4-4BA0-A85A-FBD1406AB285}|BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon.csproj|C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\beyazesyaotomasyon\\frmkasa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{17A6E77E-E4C4-4BA0-A85A-FBD1406AB285}|BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon.csproj|solutionrelative:beyazesyaotomasyon\\frmkasa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A6E77E-E4C4-4BA0-A85A-FBD1406AB285}|BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon.csproj|C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\beyazesyaotomasyon\\frmbankalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{17A6E77E-E4C4-4BA0-A85A-FBD1406AB285}|BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon.csproj|solutionrelative:beyazesyaotomasyon\\frmbankalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A6E77E-E4C4-4BA0-A85A-FBD1406AB285}|BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon.csproj|C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\beyazesyaotomasyon\\frmnotdetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17A6E77E-E4C4-4BA0-A85A-FBD1406AB285}|BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon.csproj|solutionrelative:beyazesyaotomasyon\\frmnotdetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A6E77E-E4C4-4BA0-A85A-FBD1406AB285}|BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon.csproj|C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\beyazesyaotomasyon\\frmpersonel.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17A6E77E-E4C4-4BA0-A85A-FBD1406AB285}|BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon.csproj|solutionrelative:beyazesyaotomasyon\\frmpersonel.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmAdmin.cs",
+              "DocumentMoniker": "C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon\\FrmAdmin.cs",
+              "RelativeDocumentMoniker": "BeyazEsyaOtomasyon\\FrmAdmin.cs",
+              "ToolTip": "C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon\\FrmAdmin.cs",
+              "RelativeToolTip": "BeyazEsyaOtomasyon\\FrmAdmin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T00:34:19.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmMusteriler.cs",
+              "DocumentMoniker": "C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon\\FrmMusteriler.cs",
+              "RelativeDocumentMoniker": "BeyazEsyaOtomasyon\\FrmMusteriler.cs",
+              "ToolTip": "C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon\\FrmMusteriler.cs",
+              "RelativeToolTip": "BeyazEsyaOtomasyon\\FrmMusteriler.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAnwJ8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T12:29:38.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmFirmalar.cs",
+              "DocumentMoniker": "C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon\\FrmFirmalar.cs",
+              "RelativeDocumentMoniker": "BeyazEsyaOtomasyon\\FrmFirmalar.cs",
+              "ToolTip": "C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon\\FrmFirmalar.cs",
+              "RelativeToolTip": "BeyazEsyaOtomasyon\\FrmFirmalar.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAhwC0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T12:35:09.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmPersonel.cs",
+              "DocumentMoniker": "C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon\\FrmPersonel.cs",
+              "RelativeDocumentMoniker": "BeyazEsyaOtomasyon\\FrmPersonel.cs",
+              "ToolTip": "C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon\\FrmPersonel.cs",
+              "RelativeToolTip": "BeyazEsyaOtomasyon\\FrmPersonel.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAnwKUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T12:02:10.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FrmAnaSayfa.cs",
+              "DocumentMoniker": "C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon\\FrmAnaSayfa.cs",
+              "RelativeDocumentMoniker": "BeyazEsyaOtomasyon\\FrmAnaSayfa.cs",
+              "ToolTip": "C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon\\FrmAnaSayfa.cs",
+              "RelativeToolTip": "BeyazEsyaOtomasyon\\FrmAnaSayfa.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA1wEYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T23:23:13.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmKasa.cs",
+              "DocumentMoniker": "C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon\\FrmKasa.cs",
+              "RelativeDocumentMoniker": "BeyazEsyaOtomasyon\\FrmKasa.cs",
+              "ToolTip": "C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon\\FrmKasa.cs",
+              "RelativeToolTip": "BeyazEsyaOtomasyon\\FrmKasa.cs",
+              "ViewState": "AgIAAB4BAAAAAAAAAAAvwA4BAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T12:02:10.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmBankalar.cs",
+              "DocumentMoniker": "C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon\\FrmBankalar.cs",
+              "RelativeDocumentMoniker": "BeyazEsyaOtomasyon\\FrmBankalar.cs",
+              "ToolTip": "C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon\\FrmBankalar.cs",
+              "RelativeToolTip": "BeyazEsyaOtomasyon\\FrmBankalar.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAvwG4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T12:42:06.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmAnaModul.cs [Design]",
+              "DocumentMoniker": "C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon\\FrmAnaModul.cs",
+              "RelativeDocumentMoniker": "BeyazEsyaOtomasyon\\FrmAnaModul.cs",
+              "ToolTip": "C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon\\FrmAnaModul.cs [Design]",
+              "RelativeToolTip": "BeyazEsyaOtomasyon\\FrmAnaModul.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T12:02:10.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmUrunler.cs",
+              "DocumentMoniker": "C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon\\FrmUrunler.cs",
+              "RelativeDocumentMoniker": "BeyazEsyaOtomasyon\\FrmUrunler.cs",
+              "ToolTip": "C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon\\FrmUrunler.cs",
+              "RelativeToolTip": "BeyazEsyaOtomasyon\\FrmUrunler.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAnwHgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T12:43:33.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FrmSatis.cs",
+              "DocumentMoniker": "C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon\\FrmSatis.cs",
+              "RelativeDocumentMoniker": "BeyazEsyaOtomasyon\\FrmSatis.cs",
+              "ToolTip": "C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon\\FrmSatis.cs",
+              "RelativeToolTip": "BeyazEsyaOtomasyon\\FrmSatis.cs",
+              "ViewState": "AgIAAPIAAAAAAAAAAAAnwP8AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T00:02:22.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmAyarlar.cs",
+              "DocumentMoniker": "C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon\\FrmAyarlar.cs",
+              "RelativeDocumentMoniker": "BeyazEsyaOtomasyon\\FrmAyarlar.cs",
+              "ToolTip": "C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon\\FrmAyarlar.cs",
+              "RelativeToolTip": "BeyazEsyaOtomasyon\\FrmAyarlar.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAIA8wDUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T12:42:31.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmAdmin.cs [Design]",
+              "DocumentMoniker": "C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon\\FrmAdmin.cs",
+              "RelativeDocumentMoniker": "BeyazEsyaOtomasyon\\FrmAdmin.cs",
+              "ToolTip": "C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon\\FrmAdmin.cs [Design]",
+              "RelativeToolTip": "BeyazEsyaOtomasyon\\FrmAdmin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T12:02:10.898Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "FrmNotlar.cs [Design]",
+              "DocumentMoniker": "C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon\\FrmNotlar.cs",
+              "RelativeDocumentMoniker": "BeyazEsyaOtomasyon\\FrmNotlar.cs",
+              "ToolTip": "C:\\Users\\ukvi9\\Downloads\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon\\FrmNotlar.cs [Design]",
+              "RelativeToolTip": "..\\..\\Users\\ukvi9\\Downloads\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon\\FrmNotlar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T12:02:54.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FrmRaporlar.cs [Design]",
+              "DocumentMoniker": "C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon\\FrmRaporlar.cs",
+              "RelativeDocumentMoniker": "BeyazEsyaOtomasyon\\FrmRaporlar.cs",
+              "ToolTip": "C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon\\FrmRaporlar.cs [Design]",
+              "RelativeToolTip": "BeyazEsyaOtomasyon\\FrmRaporlar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T12:02:55.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FrmAnaSayfa.cs [Design]",
+              "DocumentMoniker": "C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon\\FrmAnaSayfa.cs",
+              "RelativeDocumentMoniker": "BeyazEsyaOtomasyon\\FrmAnaSayfa.cs",
+              "ToolTip": "C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon\\FrmAnaSayfa.cs [Design]",
+              "RelativeToolTip": "BeyazEsyaOtomasyon\\FrmAnaSayfa.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T23:21:56.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FrmAnaSayfa.Designer.cs",
+              "DocumentMoniker": "C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon\\FrmAnaSayfa.Designer.cs",
+              "RelativeDocumentMoniker": "BeyazEsyaOtomasyon\\FrmAnaSayfa.Designer.cs",
+              "ToolTip": "C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon\\FrmAnaSayfa.Designer.cs",
+              "RelativeToolTip": "BeyazEsyaOtomasyon\\FrmAnaSayfa.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T23:25:23.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FrmRehber.cs [Design]",
+              "DocumentMoniker": "C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon\\FrmRehber.cs",
+              "RelativeDocumentMoniker": "BeyazEsyaOtomasyon\\FrmRehber.cs",
+              "ToolTip": "C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon\\FrmRehber.cs [Design]",
+              "RelativeToolTip": "BeyazEsyaOtomasyon\\FrmRehber.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T23:57:23.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmAdmin.Designer.cs",
+              "DocumentMoniker": "C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon\\FrmAdmin.Designer.cs",
+              "RelativeDocumentMoniker": "BeyazEsyaOtomasyon\\FrmAdmin.Designer.cs",
+              "ToolTip": "C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon\\FrmAdmin.Designer.cs",
+              "RelativeToolTip": "BeyazEsyaOtomasyon\\FrmAdmin.Designer.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAIAwwEQAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T00:38:05.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon\\Program.cs",
+              "RelativeDocumentMoniker": "BeyazEsyaOtomasyon\\Program.cs",
+              "ToolTip": "C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon\\Program.cs",
+              "RelativeToolTip": "BeyazEsyaOtomasyon\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAvwBIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T12:02:10.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FrmSatis.cs [Design]",
+              "DocumentMoniker": "C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon\\FrmSatis.cs",
+              "RelativeDocumentMoniker": "BeyazEsyaOtomasyon\\FrmSatis.cs",
+              "ToolTip": "C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon\\FrmSatis.cs [Design]",
+              "RelativeToolTip": "BeyazEsyaOtomasyon\\FrmSatis.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T00:02:29.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FrmHareketler.cs",
+              "DocumentMoniker": "C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon\\FrmHareketler.cs",
+              "RelativeDocumentMoniker": "BeyazEsyaOtomasyon\\FrmHareketler.cs",
+              "ToolTip": "C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon\\FrmHareketler.cs",
+              "RelativeToolTip": "BeyazEsyaOtomasyon\\FrmHareketler.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAuwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T00:18:23.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FrmRehber.cs",
+              "DocumentMoniker": "C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon\\FrmRehber.cs",
+              "RelativeDocumentMoniker": "BeyazEsyaOtomasyon\\FrmRehber.cs",
+              "ToolTip": "C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon\\FrmRehber.cs",
+              "RelativeToolTip": "BeyazEsyaOtomasyon\\FrmRehber.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T00:18:22.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FrmSatis.Designer.cs",
+              "DocumentMoniker": "C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon\\FrmSatis.Designer.cs",
+              "RelativeDocumentMoniker": "BeyazEsyaOtomasyon\\FrmSatis.Designer.cs",
+              "ToolTip": "C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon\\FrmSatis.Designer.cs",
+              "RelativeToolTip": "BeyazEsyaOtomasyon\\FrmSatis.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T00:02:23.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FrmFaturaUrunDuzenleme.cs [Design]",
+              "DocumentMoniker": "C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon\\FrmFaturaUrunDuzenleme.cs",
+              "RelativeDocumentMoniker": "BeyazEsyaOtomasyon\\FrmFaturaUrunDuzenleme.cs",
+              "ToolTip": "C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon\\FrmFaturaUrunDuzenleme.cs [Design]",
+              "RelativeToolTip": "BeyazEsyaOtomasyon\\FrmFaturaUrunDuzenleme.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T12:02:43.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FrmFaturalar.cs [Design]",
+              "DocumentMoniker": "C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon\\FrmFaturalar.cs",
+              "RelativeDocumentMoniker": "BeyazEsyaOtomasyon\\FrmFaturalar.cs",
+              "ToolTip": "C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon\\FrmFaturalar.cs [Design]",
+              "RelativeToolTip": "BeyazEsyaOtomasyon\\FrmFaturalar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T12:02:10.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FrmFaturalar.cs",
+              "DocumentMoniker": "C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon\\FrmFaturalar.cs",
+              "RelativeDocumentMoniker": "BeyazEsyaOtomasyon\\FrmFaturalar.cs",
+              "ToolTip": "C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon\\FrmFaturalar.cs",
+              "RelativeToolTip": "BeyazEsyaOtomasyon\\FrmFaturalar.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAuwIoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T22:03:09.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FrmFaturaUrunDuzenleme.Designer.cs",
+              "DocumentMoniker": "C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon\\FrmFaturaUrunDuzenleme.Designer.cs",
+              "RelativeDocumentMoniker": "BeyazEsyaOtomasyon\\FrmFaturaUrunDuzenleme.Designer.cs",
+              "ToolTip": "C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon\\FrmFaturaUrunDuzenleme.Designer.cs",
+              "RelativeToolTip": "BeyazEsyaOtomasyon\\FrmFaturaUrunDuzenleme.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T22:17:56.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FrmFaturaUrunDuzenleme.resx",
+              "DocumentMoniker": "C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon\\FrmFaturaUrunDuzenleme.resx",
+              "RelativeDocumentMoniker": "BeyazEsyaOtomasyon\\FrmFaturaUrunDuzenleme.resx",
+              "ToolTip": "C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon\\FrmFaturaUrunDuzenleme.resx",
+              "RelativeToolTip": "BeyazEsyaOtomasyon\\FrmFaturaUrunDuzenleme.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-07-07T22:17:59.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FrmRaporlar.cs",
+              "DocumentMoniker": "C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon\\FrmRaporlar.cs",
+              "RelativeDocumentMoniker": "BeyazEsyaOtomasyon\\FrmRaporlar.cs",
+              "ToolTip": "C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon\\FrmRaporlar.cs",
+              "RelativeToolTip": "BeyazEsyaOtomasyon\\FrmRaporlar.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAFEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T22:24:02.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FrmStoklar.cs [Design]",
+              "DocumentMoniker": "C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon\\FrmStoklar.cs",
+              "RelativeDocumentMoniker": "BeyazEsyaOtomasyon\\FrmStoklar.cs",
+              "ToolTip": "C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon\\FrmStoklar.cs [Design]",
+              "RelativeToolTip": "BeyazEsyaOtomasyon\\FrmStoklar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T12:02:57.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FrmUrunler.cs [Design]",
+              "DocumentMoniker": "C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon\\FrmUrunler.cs",
+              "RelativeDocumentMoniker": "BeyazEsyaOtomasyon\\FrmUrunler.cs",
+              "ToolTip": "C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon\\FrmUrunler.cs [Design]",
+              "RelativeToolTip": "BeyazEsyaOtomasyon\\FrmUrunler.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T12:03:00.577Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "FrmFaturaUrunler.cs [Design]",
+              "DocumentMoniker": "C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon\\FrmFaturaUrunler.cs",
+              "RelativeDocumentMoniker": "BeyazEsyaOtomasyon\\FrmFaturaUrunler.cs",
+              "ToolTip": "C:\\Users\\ukvi9\\Downloads\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon\\FrmFaturaUrunler.cs [Design]",
+              "RelativeToolTip": "..\\..\\Users\\ukvi9\\Downloads\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon\\FrmFaturaUrunler.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T12:02:10.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "FrmGiderler.cs [Design]",
+              "DocumentMoniker": "C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon\\FrmGiderler.cs",
+              "RelativeDocumentMoniker": "BeyazEsyaOtomasyon\\FrmGiderler.cs",
+              "ToolTip": "C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon\\FrmGiderler.cs [Design]",
+              "RelativeToolTip": "BeyazEsyaOtomasyon\\FrmGiderler.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T12:02:10.898Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "FrmHareketler.cs [Design]",
+              "DocumentMoniker": "C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon\\FrmHareketler.cs",
+              "RelativeDocumentMoniker": "BeyazEsyaOtomasyon\\FrmHareketler.cs",
+              "ToolTip": "C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon\\FrmHareketler.cs [Design]",
+              "RelativeToolTip": "BeyazEsyaOtomasyon\\FrmHareketler.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T12:02:10.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "FrmMail.cs [Design]",
+              "DocumentMoniker": "C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon\\FrmMail.cs",
+              "RelativeDocumentMoniker": "BeyazEsyaOtomasyon\\FrmMail.cs",
+              "ToolTip": "C:\\Users\\ukvi9\\Downloads\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon\\FrmMail.cs [Design]",
+              "RelativeToolTip": "..\\..\\Users\\ukvi9\\Downloads\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon\\FrmMail.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T12:02:10.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "FrmMusteriler.cs [Design]",
+              "DocumentMoniker": "C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon\\FrmMusteriler.cs",
+              "RelativeDocumentMoniker": "BeyazEsyaOtomasyon\\FrmMusteriler.cs",
+              "ToolTip": "C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon\\FrmMusteriler.cs [Design]",
+              "RelativeToolTip": "BeyazEsyaOtomasyon\\FrmMusteriler.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T12:02:10.888Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "FrmPersonel.cs [Design]",
+              "DocumentMoniker": "C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon\\FrmPersonel.cs",
+              "RelativeDocumentMoniker": "BeyazEsyaOtomasyon\\FrmPersonel.cs",
+              "ToolTip": "C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon\\FrmPersonel.cs [Design]",
+              "RelativeToolTip": "BeyazEsyaOtomasyon\\FrmPersonel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T12:02:10.901Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "FrmNotDetay.cs [Design]",
+              "DocumentMoniker": "C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon\\FrmNotDetay.cs",
+              "RelativeDocumentMoniker": "BeyazEsyaOtomasyon\\FrmNotDetay.cs",
+              "ToolTip": "C:\\Users\\ukvi9\\Downloads\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon\\FrmNotDetay.cs [Design]",
+              "RelativeToolTip": "..\\..\\Users\\ukvi9\\Downloads\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon\\FrmNotDetay.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T12:02:10.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "FrmAyarlar.cs [Design]",
+              "DocumentMoniker": "C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon\\FrmAyarlar.cs",
+              "RelativeDocumentMoniker": "BeyazEsyaOtomasyon\\FrmAyarlar.cs",
+              "ToolTip": "C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon\\FrmAyarlar.cs [Design]",
+              "RelativeToolTip": "BeyazEsyaOtomasyon\\FrmAyarlar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T12:02:10.888Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "FrmNotDetay.cs",
+              "DocumentMoniker": "C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon\\FrmNotDetay.cs",
+              "RelativeDocumentMoniker": "BeyazEsyaOtomasyon\\FrmNotDetay.cs",
+              "ToolTip": "C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon\\FrmNotDetay.cs",
+              "RelativeToolTip": "BeyazEsyaOtomasyon\\FrmNotDetay.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAtwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T12:02:10.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "FrmBankalar.cs [Design]",
+              "DocumentMoniker": "C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon\\FrmBankalar.cs",
+              "RelativeDocumentMoniker": "BeyazEsyaOtomasyon\\FrmBankalar.cs",
+              "ToolTip": "C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon\\FrmBankalar.cs [Design]",
+              "RelativeToolTip": "BeyazEsyaOtomasyon\\FrmBankalar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T12:02:10.888Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "FrmHareketler.Designer.cs",
+              "DocumentMoniker": "C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon\\FrmHareketler.Designer.cs",
+              "RelativeDocumentMoniker": "BeyazEsyaOtomasyon\\FrmHareketler.Designer.cs",
+              "ToolTip": "C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon\\FrmHareketler.Designer.cs",
+              "RelativeToolTip": "BeyazEsyaOtomasyon\\FrmHareketler.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T12:02:10.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "FrmKasa.cs [Design]",
+              "DocumentMoniker": "C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon\\FrmKasa.cs",
+              "RelativeDocumentMoniker": "BeyazEsyaOtomasyon\\FrmKasa.cs",
+              "ToolTip": "C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon\\FrmKasa.cs [Design]",
+              "RelativeToolTip": "BeyazEsyaOtomasyon\\FrmKasa.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T12:02:10.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "FrmPersonel.Designer.cs",
+              "DocumentMoniker": "C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon\\FrmPersonel.Designer.cs",
+              "RelativeDocumentMoniker": "BeyazEsyaOtomasyon\\FrmPersonel.Designer.cs",
+              "ToolTip": "C:\\C-ile-DevExpress-de-SQL-Tabanl-Beyaz-Esya-Otomasyonu-main\\BeyazEsyaOtomasyon\\BeyazEsyaOtomasyon\\FrmPersonel.Designer.cs",
+              "RelativeToolTip": "BeyazEsyaOtomasyon\\FrmPersonel.Designer.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAhwBYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T12:02:10.901Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
