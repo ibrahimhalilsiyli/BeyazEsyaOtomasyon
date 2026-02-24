@@ -127,4 +127,3 @@ See the [LICENSE](LICENSE) file for details.
 
 ---
 
-İstersen bu yapıyı Türkçe versiyona da çevirebilirim veya GitHub için Markdown formatına dönüştürülmüş halini doğrudan sana verebilirim. Yardımcı olayım mı?
